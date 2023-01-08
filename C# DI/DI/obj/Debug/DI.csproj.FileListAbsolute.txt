@@ -1,0 +1,10 @@
+D:\il\Задание\C# DI\DI\bin\Debug\DI.exe.config
+D:\il\Задание\C# DI\DI\bin\Debug\DI.exe
+D:\il\Задание\C# DI\DI\bin\Debug\DI.pdb
+D:\il\Задание\C# DI\DI\obj\Debug\DI.csproj.AssemblyReference.cache
+D:\il\Задание\C# DI\DI\obj\Debug\DI.Form1.resources
+D:\il\Задание\C# DI\DI\obj\Debug\DI.Properties.Resources.resources
+D:\il\Задание\C# DI\DI\obj\Debug\DI.csproj.GenerateResource.cache
+D:\il\Задание\C# DI\DI\obj\Debug\DI.csproj.CoreCompileInputs.cache
+D:\il\Задание\C# DI\DI\obj\Debug\DI.exe
+D:\il\Задание\C# DI\DI\obj\Debug\DI.pdb
